@@ -11,3 +11,17 @@ C:\Users\Muphy\source\repos\YtDownloader\YtDownloader\bin\Debug\libvideo.dll
 C:\Users\Muphy\source\repos\YtDownloader\YtDownloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Muphy\source\repos\YtDownloader\YtDownloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\Users\Muphy\source\repos\YtDownloader\YtDownloader\obj\Debug\YtDownloader.csproj.CopyComplete
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\bin\Debug\YtDownloader.exe.config
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\bin\Debug\YtDownloader.exe
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\bin\Debug\YtDownloader.pdb
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\bin\Debug\libvideo.dll
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\obj\Debug\YtDownloader.csprojAssemblyReference.cache
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\obj\Debug\YtDownloader.Main.resources
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\obj\Debug\YtDownloader.Properties.Resources.resources
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\obj\Debug\YtDownloader.csproj.GenerateResource.cache
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\obj\Debug\YtDownloader.csproj.CoreCompileInputs.cache
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\obj\Debug\YtDownloader.csproj.CopyComplete
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\obj\Debug\YtDownloader.exe
+C:\Users\DarkFire\Documents\GitHub\YtDownloader\YtDownloader\obj\Debug\YtDownloader.pdb
